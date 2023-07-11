@@ -1,0 +1,80 @@
+.abc1 {
+    display: flex;
+}
+
+img {
+    border: 1px solid black;
+    margin: 0.2rem;
+    width: 5rem;
+}
+
+.btx {
+    border: 0;
+    border-radius: 25px;
+    background-color: rgb(76, 76, 255);
+    color: white;
+    padding-inline: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.cona {
+    display: flex;
+    gap: 0 14px;
+    padding: 1rem;
+}
+
+.dau {
+    margin-left: 25rem;
+}
+
+.cardnumber {
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    width: 420px;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+}
+
+.cardnumber:focus {
+    outline: 1px solid rgb(0, 17, 255);
+}
+
+.pw {
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    width: 305px;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+}
+
+.pw:focus {
+    outline: 1px solid rgb(0, 17, 255);
+}
+
+.dt {
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    width: 80px;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+}
+
+.dt:focus {
+    outline: 1px solid rgb(0, 17, 255);
+}
+
+.ke {
+    padding: 1rem;
+}
+
+.bottom {
+    padding: 1rem;
+}
+
+.top {
+    padding: 1rem;
+}

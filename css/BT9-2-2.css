@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(243, 243, 243);
+}
+
+a {
+    text-decoration: none;
+}
+
+.tr1 {
+    background-color: white;
+    border-spacing: 3rem;
+}
+
+.dv1 {
+    border-left-color: black;
+    border-bottom: 10px;
+}
+
+.bt {
+    background-color: rgb(42, 117, 187);
+    border: none;
+    color: white;
+    padding-block: 0.4rem;
+    padding-inline: 0.6rem;
+    border-radius: 5px;
+    font-size: 0.8rem;
+}
+
+.ddv {
+    background-color: rgb(29, 28, 28);
+    color: white;
+    text-align: center;
+    padding: 1.7rem;
+    font-size: 0.8rem;
+}
+
+table {
+    border-spacing: 20px;
+}
+
+td {
+    padding: 5px;
+}
